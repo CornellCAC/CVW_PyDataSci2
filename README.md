@@ -1,0 +1,1 @@
+This repository provides supplementary material (in the form of Jupyter notebooks and data files) for use with the Cornell Virtual Workshop (CVW) tutorial on <a href="https://cvw.cac.cornell.edu/PyDataSci2">Python for Data Science - Part 2: Data Modeling and Machine Learning</a>.
