@@ -1,3 +1,5 @@
+### CVW Notebooks and Data
+
 This repository provides supplementary material (in the form of Jupyter notebooks and data files) for use with the Cornell Virtual Workshop (CVW) tutorial on <a href="https://cvw.cac.cornell.edu/PyDataSci2">Python for Data Science - Part 2: Data Modeling and Machine Learning</a>.
 
 
@@ -12,3 +14,10 @@ A full YAML file describing versions for these packages as well as their depende
 
 Although tensorflow=2.0.0 was included in the environment, it is not in fact used in any of the code, so it can be excluded from the environment if desired.
 
+### Slides (notebook) for Webinar on "Python Tools for Data Science"
+
+This repository also contains a Jupyter notebook used for presentation of an XSEDE Webinar on "Python Tools for Data Science" (7/28/2021).  Specifically, this includes:
+
+* PyDSWebinar.ipynb:  Jupyter notebook containing webinar presentation slides
+* PyDSWebinar.html:  statically rendered version of the webinar notebook
+* images/*.png: image files that are included in the notebook
